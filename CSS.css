@@ -14,7 +14,7 @@ img{
 .menu2{
     position: relative;
     left: 50%;
-    top: 100%;
+    top: 200%;
     text-align: center;
     width: 50%;
     margin: 0;
@@ -28,7 +28,7 @@ img{
 }
 .h{
     position: relative;
-    font-size: 7vh;
+    font-size: 9vh;
     font-family: Comic Sans MS,Verdana,Helvetica;
     font-style: normal;
     color: #000000;
