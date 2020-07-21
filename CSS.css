@@ -12,6 +12,10 @@ img{
     height: 11vh;
 }
 .menu2{
+    position: relative;
+    left: 50%;
+    text-align: center;
+    width: 50%;
     margin: 0;
 }
 .menu3{
