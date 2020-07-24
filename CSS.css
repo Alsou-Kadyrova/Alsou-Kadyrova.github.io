@@ -9,6 +9,7 @@ img{
 .menu2{
     position: relative;
     left: 50%;
+    bottom: 25%;
     text-align: center;
     width: 50%;
     margin: 0;
@@ -17,6 +18,7 @@ img{
     position: relative;
     width: 50%;
     left: 50%;
+    bottom: 25%;
     text-align: center;
     margin: 0;
 }
