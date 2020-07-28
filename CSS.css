@@ -5,6 +5,7 @@ body {
 img{
     position: relative;
     width: 50%;
+    float: left;
 }
 .menu2{
     position: relative;
