@@ -28,6 +28,7 @@ img{
     position: relative;
     font-size: 9vh;
     font-family: Comic Sans MS,Verdana,Helvetica;
+    max-height: 200px;
     font-style: normal;
     color: #000000;
     padding: 0;
